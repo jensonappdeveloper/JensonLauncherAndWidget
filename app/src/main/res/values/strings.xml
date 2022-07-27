@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Launcher</string>
+    <string name="sample_text">Jenson Weather</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="appname">App Name</string>
+    <string name="configure">Configure</string>
+    <string name="country_name">Country Name</string>
+    <string name="city_name">City Name</string>
+    <string name="degree">30°</string>
+    <string name="climate_description">Climate Description</string>
+
+    <string name="test_country">India</string>
+    <string name="test_city">Kochi</string>
+    <string name="test_temp">36°</string>
+    <string name="test_desc">Very Sunny Day</string>
+
+</resources>

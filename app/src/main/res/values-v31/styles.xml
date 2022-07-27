@@ -1,0 +1,22 @@
+<resources>
+
+    <style name="Widget.MyLauncher.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:padding">?attr/appWidgetPadding</item>
+        <item name="android:background">@drawable/app_widget_background</item>
+        <item name="android:clipToOutline">true</item>
+    </style>
+
+    <style name="Widget.MyLauncher.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:padding">?attr/appWidgetPadding</item>
+        <item name="android:background">@drawable/app_widget_inner_view_background</item>
+        <item name="android:textColor">@color/light_blue_50</item>
+        <item name="android:clipToOutline">true</item>
+    </style>
+
+    <style name="MyWidgetTheme" parent="Theme.Material3.DynamicColors.DayNight">
+        <!--<item name="android:colorBackground">@color/background_black</item>-->
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>
